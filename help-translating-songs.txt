@@ -1,0 +1,14 @@
+I need help translating some parts of this song taking into account the context of the Song.
+
+Song: {Insert your song}
+
+Pick some of the harder words, expressions, and phrasal verbs and for each one provide:
+
+1. A literal translation into Portuguese and some synonyms in Portuguese
+
+2. A brief description of the meaning in english and some synonyms in English
+
+Please format your response to make it easy to read and understand.
+Use h3 for sections.
+
+Next, everytime I type some of the musics words, expressions, etc, provided 1 and 2 for it.
