@@ -1,0 +1,16 @@
+I need help translating my text into Native English.
+
+Text: {Insert your text}
+
+Please provide:
+
+1. A literal translation of this text
+
+2. How a native English speaker would interpret the literal translation
+
+3. How a native English speaker would naturally express this concept in conversation, using complete sentences and everyday language
+
+4. Please provide 2-3 examples of how this might come up in everyday speech.
+
+Please format your response to make it easy to read and understand.
+Use h3 for sections.
