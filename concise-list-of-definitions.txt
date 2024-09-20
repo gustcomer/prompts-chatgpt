@@ -1,14 +1,17 @@
-Prompt:
+# Prompt for Generating Definitions
+
+**Prompt**:
 Create a concise list of definitions and subdefinitions for a given subject. Use the provided subject, example text, and formatting instructions to guide the output.
 
-Inputs:
-Subject: [insert subject here]
-Example Formatting Text: [insert example formatting text here]
-Minimum Number of Entries: [insert minimum number of entries here]
+**Input**:
+- **Subject**: `[insert subject here]`
+- **Example Formatting Text**: `[insert example formatting text here]`
+- **Minimum Number of Entries**: `[insert minimum number of entries here]`
 
-Instructions:
-Generate definitions for the most important terms and concepts related to the subject.
-Follow the provided example formatting for each entry. Use subdefinitions as you wish.
-The output should have no line spacing between each term or subdefinition.
-Ensure the output is in .txt format.
-The number of entries should be at least the minimum number provided.
+**Instructions**:
+1. Generate definitions for the most important terms and concepts related to the subject.
+2. Follow the provided example formatting for each entry. Use subdefinitions as you wish.
+3. Organize the entries in **alphabetical order**.
+4. Ensure **no line spacing** between entries or subdefinitions.
+5. Output should be in **.txt format**.
+6. The number of entries should meet or exceed the **minimum provided**.
