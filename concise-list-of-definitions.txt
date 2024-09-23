@@ -1,17 +1,26 @@
 # Prompt for Generating Definitions
 
-**Prompt**:
+Prompt:
 Create a concise list of definitions and subdefinitions for a given subject. Use the provided subject, example text, and formatting instructions to guide the output.
 
-**Input**:
-- **Subject**: `[insert subject here]`
-- **Example Formatting Text**: `[insert example formatting text here]`
-- **Minimum Number of Entries**: `[insert minimum number of entries here]`
+Input:
+- Subject: [insert subject here]
+- Example Formatting Text: [insert example formatting text here]
+- Minimum Number of Entries: [insert minimum number of entries here]
 
-**Instructions**:
+Instructions:
 1. Generate definitions for the most important terms and concepts related to the subject.
 2. Follow the provided example formatting for each entry. Use subdefinitions as you wish.
-3. Organize the entries in **alphabetical order**.
-4. Ensure **no line spacing** between entries or subdefinitions.
-5. Output should be in **.txt format**.
-6. The number of entries should meet or exceed the **minimum provided**.
+3. Organize the entries in alphabetical order.
+4. Ensure no line spacing between entries or subdefinitions.
+5. Output should be in .txt format.
+6. The number of entries should meet or exceed the minimum provided.
+
+--------------------------------------------------------------------------------
+Use this prompt with maximum 10 entries each time to get better results. Then repeat the requisition with:
+
+generate another 10
+
+Then merge the files generated with:
+
+merge the entries in the [5] files you generated. Remember that each subline starting with double spaces or delimited by "-" are also part of the entry, and not an entry itself.
