@@ -19,7 +19,7 @@ Instructions:
 --------------------------------------------------------------------------------
 Use this prompt with maximum 10 entries each time to get better results. Then repeat the requisition with:
 
-generate another 10
+generate another [10]
 
 Then merge the files generated with:
 

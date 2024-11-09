@@ -1,0 +1,9 @@
+// upload the file with the subtitle
+
+...
+
+I want you to extract just the text of the dialogues, put them one after the other separated by |.
+
+...
+
+i want to save the entire cleaned into a text file
